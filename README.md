@@ -97,5 +97,5 @@ The **AI Chatbot with NLP** project provides a complete demonstration of how sim
 ---
 
 ### **Output**:
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/29219684-a975-4432-a26b-7b395e47556f" />
 
